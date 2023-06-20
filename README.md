@@ -1,6 +1,6 @@
 👋 Hi, I’m @Neil2101
 
-👀 I’m interested in learning C++
+👀 I’m interested in learning C#
 
 🌱 I’m currently learning More python
 
